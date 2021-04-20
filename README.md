@@ -7,4 +7,5 @@ You can find it in Telegram by tagging @Weather_sprinter_bot.
 Well I don't have my own server so the bot works only when my PC is turned on.
 To write it i used some manual for pyTelegramBotApi, and requests libraries. I also used some github repositories, because I am just a starter and needed some help.
 To run bot just move to your loaction of it's code in cmd and tyoe python weathbot.by, and now you can use it wherever you want(samrtphone, pc, etc).
+ALLERT: the bot won't run correctly, if you do not place those stickers in it's folder!
 Have a nice day.
